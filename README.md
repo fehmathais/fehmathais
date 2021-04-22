@@ -8,13 +8,20 @@ I'm a full-stack engineer. I love programming, writing, read books, play acousti
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="200" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something very cool;
 - 🚀 I’m currently learning Microfrontend archtecture
 - 💬 Ask me about anything, I am happy to help;
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### My Github Stats 📈
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=fehmathais&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=ayu-mirage" /><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehmathais&layout=compact&theme=ayu-mirage" />
