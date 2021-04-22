@@ -1,5 +1,7 @@
 ### Hi there, I'm [Felipe Mathais](https://github.com/fehmathais) 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **fehmathais/fehmathais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
