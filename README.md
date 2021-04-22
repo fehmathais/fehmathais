@@ -7,6 +7,7 @@ I'm glad to see you here!
 
 ### My github stats 📈
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fehmathais&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehmathais)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fehmathais/fehmathais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
