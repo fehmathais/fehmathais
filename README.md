@@ -16,7 +16,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🚀 I’m currently learning Microfrontend archtecture
 - 💬 Ask me about anything, I am happy to help;
 
-### My Github Stats 📈
+# My Github Stats 📈
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=fehmathais&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=ayu-mirage" /><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehmathais&layout=compact&theme=ayu-mirage" />
 <!--
 **fehmathais/fehmathais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
