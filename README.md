@@ -1,5 +1,6 @@
 ### Hi there, I'm [Felipe Mathais](https://github.com/fehmathais) 👋
 
+I'm glad to see you here!
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--
