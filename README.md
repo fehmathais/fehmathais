@@ -1,7 +1,9 @@
 ### Hi there, I'm [Felipe Mathais](https://github.com/fehmathais) 👋
 
-I'm glad to see you here!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![fehmathais](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+I'm glad to see you here!  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.fehmathais)
 
 <!--
 **fehmathais/fehmathais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
