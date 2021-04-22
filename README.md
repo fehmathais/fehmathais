@@ -10,15 +10,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
-
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 👨🏻‍💻 I’m currently working on something very cool;
+- 🚀 I’m currently learning Microfrontend archtecture
 - 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
 
 ### My Github Stats 📈
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=fehmathais&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=ayu-mirage" /><img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fehmathais&layout=compact&theme=ayu-mirage" />
