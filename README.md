@@ -13,7 +13,7 @@ As a software engineer, I enjoy using my obsessive attention to write a clean an
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something very cool;
-- 🚀 I’m currently learning Microfrontend archtecture
+- 🚀 I’m currently getting deeply on algorithms and data structures;
 - 💬 Ask me about anything, I am happy to help;
 
 <br />
